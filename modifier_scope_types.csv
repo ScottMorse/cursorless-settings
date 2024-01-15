@@ -13,7 +13,7 @@ call, functionCall
 callee, functionCallee
 cell, notebookCell
 chapter, chapter
-char, character
+car, character
 class, class
 class name, className
 command, command

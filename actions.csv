@@ -22,7 +22,7 @@ float, insertEmptyLineAfter
 fold, foldRegion
 follow, followLink
 format, applyFormatter
-give, deselect
+deesek, deselect
 highlight, highlight
 hover, showHover
 indent, indentLine
@@ -38,7 +38,7 @@ puff, insertEmptyLinesAround
 quick fix, showQuickFix
 reference, showReferences
 rename, rename
-repack, rewrap
+rewrap, rewrap
 reverse, reverseTargets
 scout, findInDocument
 scout all, findInWorkspace
@@ -47,7 +47,7 @@ snippet, insertSnippet
 snippet make, generateSnippet
 sort, sortTargets
 swap, swapTargets
-take, setSelection
+sek, setSelection
 type deaf, revealTypeDefinition
 unfold, unfoldRegion
 wrap, wrapWithPairedDelimiter

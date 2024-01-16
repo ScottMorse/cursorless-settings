@@ -27,7 +27,7 @@ funk, namedFunction
 funk name, functionName
 glyph, glyph
 identifier, identifier
-if state, ifStatement
+if, ifStatement
 instance, instance
 item, collectionItem
 key, collectionKey
@@ -35,7 +35,7 @@ lambda, anonymousFunction
 line, line
 link, url
 list, list
-map, map
+object, map
 name, name
 paint, nonWhitespaceSequence
 paragraph, namedParagraph
@@ -52,7 +52,7 @@ sub, word
 subparagraph, subParagraph
 subsection, subSection
 subsubsection, subSubSection
-tags, xmlBothTags
+tag pair, xmlBothTags
 token, token
 type, type
 unit, unit

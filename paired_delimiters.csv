@@ -1,14 +1,14 @@
 Spoken form, Cursorless identifier
-square, squareBrackets
-curly, curlyBrackets
-tag, angleBrackets
-escaped square, escapedSquareBrackets
-escaped dubquote, escapedDoubleQuotes
-escaped paren, escapedParentheses
-escaped quote, escapedSingleQuotes
-pair, any
-dubquote, doubleQuotes
-paren, parentheses
-backtrack, backtickQuotes
-quote, singleQuotes
-whitespace, whitespace
+boxes, squareBrackets
+curlys, curlyBrackets
+tags, angleBrackets
+escaped boxes, escapedSquareBrackets
+escaped dubquotes, escapedDoubleQuotes
+escaped parens, escapedParentheses
+escaped quotes, escapedSingleQuotes
+pairs, any
+dubquotes, doubleQuotes
+parens, parentheses
+backticks, backtickQuotes
+quotes, singleQuotes
+spaces, whitespace

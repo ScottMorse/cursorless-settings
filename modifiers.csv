@@ -6,7 +6,7 @@ empty, keepEmptyFilter
 every, every
 first, first
 forward, forward
-grand, ancestor
+parent, ancestor
 head, extendThroughStartOf
 inside, interiorOnly
 its, inferPreviousMark

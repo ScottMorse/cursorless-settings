@@ -22,7 +22,7 @@ float, insertEmptyLineAfter
 fold, foldRegion
 follow, followLink
 format, applyFormatter
-deesek, deselect
+give, deselect
 highlight, highlight
 hover, showHover
 indent, indentLine
@@ -47,7 +47,7 @@ snippet, insertSnippet
 snippet make, generateSnippet
 sort, sortTargets
 swap, swapTargets
-sek, setSelection
+take, setSelection
 type deaf, revealTypeDefinition
 unfold, unfoldRegion
 wrap, wrapWithPairedDelimiter

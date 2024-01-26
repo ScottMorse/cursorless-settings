@@ -43,7 +43,7 @@ reverse, reverseTargets
 scout, findInDocument
 scout all, findInWorkspace
 shuffle, randomizeTargets
-snippet, insertSnippet
+snip, insertSnippet
 snippet make, generateSnippet
 sort, sortTargets
 swap, swapTargets

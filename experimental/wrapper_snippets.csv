@@ -1,7 +1,49 @@
 Spoken form, Cursorless identifier
 else, ifElseStatement.alternative
-funk, functionDeclaration.body
+turnary, ternaryStatement.condition
+
+callMethod, wrapCallMethod.object
+
+funk, arrowFunction.body
+opfunk, arrowFunctionWithOptions.body
+
 if, ifStatement.consequence
 if else, ifElseStatement.consequence
 link, link.text
 try, tryCatchStatement.body
+
+templateLiteral, templateLiteral.value
+
+type, type.type
+interface, interface.type
+extendedInterface, extendedInterface.type
+arrayType, arrayType.value
+primitiveArrayType, primitiveArrayType.value
+
+return, returnStatement.value
+export, exportStatement.value
+defaultImport, importDefaultStatement.value
+import, importStatement.value
+
+const, constant.value
+typeConst, typedConstant.value
+topConst, topConstant.value
+typedTopConst, typedTopConstant.value
+destructConst, destructConstant.field
+let, let.value
+typedLet, typedLet.value
+
+objectLiteral, objectLiteral.value
+arrayLiteral, arrayLiteral.items
+typedArray, typedArray.items
+
+consoleLog, consoleLog.value
+consoleLogObject, consoleLogObject.value
+
+reactElement, reactElement.body
+jsxElement, jsxElement.body
+prop, dynamicProp.value
+stringProp, prop.value
+dataProp, dataProp.value
+useState, useState.name
+

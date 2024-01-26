@@ -1,3 +1,47 @@
 Spoken form, Cursorless identifier
-funk, functionDeclaration.name
+funk, arrowFunction.name
+opfunk, arrowFunctionWithOptions.name
+
+callMethod, callMethod.name
+
+turnary, ternaryStatement.condition
+
 link, link.text
+
+return, returnStatement.value
+export, exportStatement.value
+defaultImport, importDefaultStatement.value
+import, importStatement.value
+
+const, constant.name
+typeConst, typedConstant.name
+topConst, topConstant.name
+typedTopConst, typedTopConstant.name
+destructConst, destructuredConstant.name
+let, let.name
+typedLet, typedLet.name
+
+templateLiteral, templateLiteral.value
+
+type, type.name
+interface, interface.name
+extendedInterface, extendedInterface.name
+arrayType, arrayType.value
+primitiveArrayType, primitiveArrayType.value
+
+objectLiteral, objectLiteral.value
+arrayLiteral, arrayLiteral.items
+typedArray, typedArray.name
+
+consoleLog, consoleLog.value
+consoleLogObject, consoleLogObject.value
+
+component, reactComponent.name
+noPropComponent, reactComponentNoProps.name
+reactElement, reactElement.element
+jsxElement, jsxElement.element
+prop, dynamicProp.key
+stringProp, stringProp.key
+dataProp, dataProp.key
+useState, useState.name
+useCallback, useCallback.name

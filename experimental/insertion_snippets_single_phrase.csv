@@ -39,6 +39,7 @@ consoleLogObject, consoleLogObject.value
 component, reactComponent.name
 noPropComponent, reactComponentNoProps.name
 reactElement, reactElement.element
+reactElementNoChild, reactElementNoChild.element
 jsxElement, jsxElement.element
 prop, dynamicProp.key
 stringProp, stringProp.key

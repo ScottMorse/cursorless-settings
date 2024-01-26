@@ -42,7 +42,7 @@ consoleLog, consoleLog.value
 consoleLogObject, consoleLogObject.value
 
 reactElement, reactElement.body
-reactElementNoChild, reactElementNoChild.element
+plainReactElement, reactElementNoChild.element
 jsxElement, jsxElement.body
 prop, dynamicProp.value
 stringProp, prop.value

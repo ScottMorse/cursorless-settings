@@ -1,6 +1,5 @@
 Spoken form, Cursorless identifier
 funk, arrowFunction.name
-anonFunk, anonymousFunction.args
 opfunk, arrowFunctionWithOptions.name
 
 callMethod, callMethod.name
@@ -40,7 +39,7 @@ consoleLogObject, consoleLogObject.value
 component, reactComponent.name
 noPropComponent, reactComponentNoProps.name
 reactElement, reactElement.element
-reactElementNoChild, reactElementNoChild.element
+plainReactElement, reactElementNoChild.element
 jsxElement, jsxElement.element
 prop, dynamicProp.key
 stringProp, stringProp.key

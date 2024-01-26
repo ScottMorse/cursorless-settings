@@ -5,6 +5,7 @@ turnary, ternaryStatement.condition
 callMethod, wrapCallMethod.object
 
 funk, arrowFunction.body
+anonFunk, anonymousFunction.body
 opfunk, arrowFunctionWithOptions.body
 
 if, ifStatement.consequence

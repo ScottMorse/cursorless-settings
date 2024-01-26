@@ -1,5 +1,6 @@
 Spoken form, Cursorless identifier
 funk, arrowFunction.name
+anonFunk, anonymousFunction.args
 opfunk, arrowFunctionWithOptions.name
 
 callMethod, callMethod.name

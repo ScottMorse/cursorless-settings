@@ -2,6 +2,7 @@ Spoken form, Cursorless identifier
 if, ifStatement
 if else, ifElseStatement
 try, tryCatchStatement
+anonFunk, anonymousFunction
 
 useEffect, useEffect
 useEffectCleanup, useEffectCleanup
